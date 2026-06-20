@@ -75,20 +75,17 @@ Como o projeto foi desenvolvido utilizando o **Dev-C++**, para compilá-lo corre
 Caso prefira compilar direto pelo terminal do Windows:
 ```bash
 g++ main.cpp -o SistemaApostas -lconio
-
----
+```
 
 Dica de Interface: Utilize as letras indicadas nos colchetes ([A], [B], etc.) para se locomover pelos menus e pressione a tecla ESC para sair ou retornar à tela anterior.
-
----
 
 📋 Observações Importantes (Aviso Acadêmico)
 
 ⚠️ Este é um projeto estritamente didático e de nível acadêmico de segundo semestre. Possui limitações estruturais intrínsecas:
 
-    Gravação sequencial direta em arquivos em formato binário bruto.
+`*`Gravação sequencial direta em arquivos em formato binário bruto.
 
-    Interface gráfica limitada ao buffer padrão do Prompt de Comando do Windows (cmd.exe).
+`*`Interface gráfica limitada ao buffer padrão do Prompt de Comando do Windows (cmd.exe).
 
 📄 Licença
 
